@@ -37,7 +37,7 @@
 
       <h5 class="home__subtitle">Titulo</h5>
       <p>Importante padronizar também o titulo do video, ficando uma coisa mais profissional.</p>
-      <p>Tentem bolar um <strong>NOME DO EPSODIO</strong> chamativo, se estiver com duvida manda no grupo.<p>
+      <p>Tentem bolar um <strong>NOME DO EPSODIO</strong> chamativo, se estiver com duvida manda no grupo.</p>
       <p>Dei uma analisada em canais grandes e cheguei neste formato, tudo em maiúsculo:</p>
       <pre>
       POBRECRAFT: NOME DO SEU EPSODIO - EP.01
