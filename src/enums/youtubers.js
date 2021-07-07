@@ -11,5 +11,6 @@ export const youtubers = [
   { name: 'D.A.O play', channelLink: 'https://www.youtube.com/DAOplaybora1k', logoIcon: 'https://yt3.ggpht.com/A5MeF0w8DMH8xAHdc05MTP1y2eQXgoXtQAaDIFgMXAM4t_orCvu4dkrfA3fnmzX2l7hmNhYhQSw=s88-c-k-c0x00ffffff-no-rj' },
   { name: 'Paloma Santos', channelLink: 'https://www.youtube.com/PalomaSantos', logoIcon: 'https://yt3.ggpht.com/6ZYocLM5HxWezWCO0DCVrVlETQ8P4du-4xFN0M9uJfIMeayYzoirVoL1TGStvcJr7UruuPkqMg=s88-c-k-c0x00ffffff-no-rj' },
   { name: 'Revolt Z', channelLink: 'https://www.youtube.com/c/RevoltZi', logoIcon: 'https://yt3.ggpht.com/DVJm1ALO0k1g60Bq1rbuqXsycpJr2X9orMJ0vgVr_rqKfAuGLPOBgGvhNa44sTpti5eedTlz_A=s88-c-k-c0x00ffffff-no-rj' },
-  { name: 'Newton Gamer Oficial', channelLink: 'https://encurtee.me/jnlwr', logoIcon: 'https://yt3.ggpht.com/tL_XOULRlq62fQP5g6cweUMO2YyUB6mI7EAK9JWXhjjAe4sjyQo22MgjzBOy_u1vu1fV3Gleqg=s88-c-k-c0x00ffffff-no-rj' }
+  { name: 'Newton Gamer Oficial', channelLink: 'https://encurtee.me/jnlwr', logoIcon: 'https://yt3.ggpht.com/tL_XOULRlq62fQP5g6cweUMO2YyUB6mI7EAK9JWXhjjAe4sjyQo22MgjzBOy_u1vu1fV3Gleqg=s88-c-k-c0x00ffffff-no-rj' },
+  { name: 'Rafa Game', channelLink: 'https://www.youtube.com/c/Rafagame', logoIcon: 'https://yt3.ggpht.com/ytc/AKedOLSCytwOLdfaU4Nc7Nz5xdbLPrj1yjKwqMN8wk-R=s88-c-k-c0x00ffffff-no-rj' }
 ]

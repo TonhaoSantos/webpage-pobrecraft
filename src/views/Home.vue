@@ -70,6 +70,7 @@
         https://m.youtube.com/c/PalomaSantos - Paloma Santos
         https://www.youtube.com/c/RevoltZi - Revolt Z
         https://encurtee.me/jnlwr - Newton Gamer Oficial
+        https://www.youtube.com/c/Rafagame - Rafa Game
 
         #minecraft #pobrecraft #minecraftbedrock
       </pre>

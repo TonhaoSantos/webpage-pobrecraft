@@ -7,19 +7,10 @@
 </template>
 
 <script>
-export default {
+import { defineComponent } from 'vue'
+
+export default defineComponent({
   name: 'BaseNewContentServiceWorker',
-  beforeCreate () {},
-  created () {},
-  beforeMount () {},
-  mounted () {},
-  beforeUpdate () {},
-  updated () {},
-  beforeDestroy () {},
-  destroyed () {},
-  data () {
-    return {}
-  },
   props: {
     propId: {
       type: String,
@@ -51,21 +42,23 @@ export default {
       }
     }
   },
-  computed: {},
-  methods: {
-    refreshApp () {
-      const registration = this.propRegistrationServiceWorkerContent
+  emits: ['close-base-new-content-service-worker'],
+  setup (props, { emit }) {
+    function refreshApp () {
+      const registration = props.propRegistrationServiceWorkerContent
 
-      this.$emit('close-base-new-content-service-worker', false)
+      emit('close-base-new-content-service-worker', false)
 
       if (!registration || !registration.waiting) return
 
       registration.waiting.postMessage('skipWaiting')
     }
-  },
-  filters: {},
-  watch: {}
-}
+
+    return {
+      refreshApp
+    }
+  }
+})
 </script>
 
 <style lang="scss" scoped>
