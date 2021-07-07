@@ -1,0 +1,16 @@
+{
+  "pages": {
+    "home": {
+      "title": "Home"
+    },
+    "about": {
+      "title": "About"
+    },
+    "i18n": {
+      "title": "i18n",
+      "texts": {
+        "hello": "Hello i18n in SFC!"
+      }
+    }
+  }
+}
