@@ -27,6 +27,7 @@ module.exports = {
     name: 'Pobre Craft',
     appleMobileWebAppCapable: 'yes',
     appleMobileWebAppStatusBarStyle: 'black',
+    workboxPluginMode: 'InjectManifest',
     workboxOptions: {
       swSrc: 'src/service-worker.js',
       exclude: [
