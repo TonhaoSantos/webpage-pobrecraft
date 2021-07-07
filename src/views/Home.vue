@@ -35,6 +35,16 @@
 
       <br>
 
+      <h5 class="home__subtitle">Titulo</h5>
+      <p>Importante padronizar também o titulo do video, ficando uma coisa mais profissional.</p>
+      <p>Tentem bolar um <strong>NOME DO EPSODIO</strong> chamativo, se estiver com duvida manda no grupo.<p>
+      <p>Dei uma analisada em canais grandes e cheguei neste formato, tudo em maiúsculo:</p>
+      <pre>
+      POBRECRAFT: NOME DO SEU EPSODIO - EP.01
+      </pre>
+
+      <br>
+
       <h5 class="home__subtitle">Intro</h5>
       <p>Temos uma intro que deve ser utilizada em todos os videos da serie, e caso seja possível nas lives também.</p>
       <p>Para baixar é só clicar <a href="https://mega.nz/folder/CbwGXAga#1mDuqoDSyAV1OlLm5QOp7w" target="_blank">aqui</a>.</p>
@@ -45,36 +55,35 @@
       <p>Abaixo temos um texto de como será a descrição de cada vídeo, onde todos devem colocar os parceiros que estão participando!</p>
       <pre>
       Série muito OP dos Youtubers Pobres
-        O Rei está revoltado cobrando mais e mais impostos da galera!
+      O Rei está revoltado cobrando mais e mais impostos da galera!
 
-        Aqui os youtubers estão se unindo para pagar tudo que a realeza pede ! Toda semana novas missões na série PobreCraft. Uma sátira muito organizada, porém pobre.
+      Aqui os youtubers estão se unindo para pagar tudo que a realeza pede ! Toda semana novas missões na série PobreCraft. Uma sátira muito organizada, porém pobre.
 
-        Nós não somos topCrafters, mas POBRECRAFTERS.
+      Nós não somos topCrafters, mas POBRECRAFTERS.
 
-        POBRECRAFT - Toda semana teremos vídeos.
+      POBRECRAFT - Toda semana teremos vídeos.
 
-        Se você é youtuber e caso queira participar da série, envie email para
-        tiagomed@hotmail.com
+      Se você é youtuber e caso queira participar da série, envie email para tiagomed@hotmail.com
 
-        Versão Minecraft: 1.17.2
+      Versão Minecraft: 1.17.2
 
-        Participantes
-        https://www.youtube.com/mineirim     - Mineirim
-        https://www.youtube.com/newplayerehp - New Player EHP
-        https://www.youtube.com/c/DyowGamer  - DyowGamer
-        https://youtube.com/c/JVVMYT - JVVM
-        https://encurtador.com.br/blrBR - MineMagic
-        https://encurtador.com.br/rtAGL - TioZé
-        https://www.youtube.com/TonhaoSantos - TonhaoSantos
-        https://www.youtube.com/coderfelipe - Coder Felipe
-        https://www.youtube.com/c/GPaulo1k - G Paulo
-        https://youtube.com/c/DAOplaybora1k - D.A.O play
-        https://m.youtube.com/c/PalomaSantos - Paloma Santos
-        https://www.youtube.com/c/RevoltZi - Revolt Z
-        https://encurtee.me/jnlwr - Newton Gamer Oficial
-        https://www.youtube.com/c/Rafagame - Rafa Game
+      Participantes
+      https://www.youtube.com/mineirim     - Mineirim
+      https://www.youtube.com/newplayerehp - New Player EHP
+      https://www.youtube.com/c/DyowGamer  - DyowGamer
+      https://youtube.com/c/JVVMYT - JVVM
+      https://encurtador.com.br/blrBR - MineMagic
+      https://encurtador.com.br/rtAGL - TioZé
+      https://www.youtube.com/TonhaoSantos - TonhaoSantos
+      https://www.youtube.com/coderfelipe - Coder Felipe
+      https://www.youtube.com/c/GPaulo1k - G Paulo
+      https://youtube.com/c/DAOplaybora1k - D.A.O play
+      https://m.youtube.com/c/PalomaSantos - Paloma Santos
+      https://www.youtube.com/c/RevoltZi - Revolt Z
+      https://encurtee.me/jnlwr - Newton Gamer Oficial
+      https://www.youtube.com/c/Rafagame - Rafa Game
 
-        #minecraft #pobrecraft #minecraftbedrock
+      #minecraft #pobrecraft #minecraftbedrock
       </pre>
 
       <br>
