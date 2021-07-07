@@ -30,6 +30,7 @@
       <p>Para divulgar videos e lives referentes ao conteúdo da serie, podemos utilizar o grupo desta finalidade <a href="https://chat.whatsapp.com/FSWhxjBv0Bv2uVWxl2RVHt" target="_blank">https://chat.whatsapp.com/FSWhxjBv0Bv2uVWxl2RVHt</a>.</p>
       <p>Para poder postar é preciso ser AMD, se você não possui este cargo solicite com outro ADM no nosso grupo interno.</p>
       <p>E muito importante deixar claro para os inscritos que os vídeos novos serão divulgados aqui neste grupo!</p>
+      <p>Quando for postar, postar com a sua Thumb, desta forma fica mais atraente a publicação.</p>
       <p><strong>Somente live e videos da serie.</strong></p>
 
       <br>
