@@ -53,38 +53,48 @@
 
       <h5 class="home__subtitle">Descrição</h5>
       <p>Abaixo temos um texto de como será a descrição de cada vídeo, onde todos devem colocar os parceiros que estão participando!</p>
-      <pre>
-      Série muito OP dos Youtubers Pobres
-      O Rei está revoltado cobrando mais e mais impostos da galera!
+      <div style="background: black; padding: 10px; color: white;">
+      Série muito OP dos Youtubers Pobres<br><br>
 
-      Aqui os youtubers estão se unindo para pagar tudo que a realeza pede ! Toda semana novas missões na série PobreCraft. Uma sátira muito organizada, porém pobre.
+      O Rei está revoltado cobrando mais e mais impostos da galera!<br><br>
 
-      Nós não somos topCrafters, mas POBRECRAFTERS.
+      Aqui os youtubers estão se unindo para pagar tudo que a realeza pede!<br><br>
+      Toda semana novas missões na série PobreCraft.<br><br>
+      Uma sátira muito organizada, porém pobre.<br><br>
 
-      POBRECRAFT - Toda semana teremos vídeos.
+      Nós não somos topCrafters, mas POBRECRAFTERS.<br><br>
 
-      Se você é youtuber e caso queira participar da série, envie email para tiagomed@hotmail.com
+      POBRECRAFT - Toda semana teremos vídeos.<br><br>
 
-      Versão Minecraft: 1.17.2
+      Se você é youtuber e caso queira participar da série, envie email para tiagomed@hotmail.com<br><br>
 
-      Participantes
-      https://www.youtube.com/mineirim     - Mineirim
-      https://www.youtube.com/newplayerehp - New Player EHP
-      https://www.youtube.com/c/DyowGamer  - DyowGamer
-      https://youtube.com/c/JVVMYT - JVVM
-      https://encurtador.com.br/blrBR - MineMagic
-      https://encurtador.com.br/rtAGL - TioZé
-      https://www.youtube.com/TonhaoSantos - TonhaoSantos
-      https://www.youtube.com/coderfelipe - Coder Felipe
-      https://www.youtube.com/c/GPaulo1k - G Paulo
-      https://youtube.com/c/DAOplaybora1k - D.A.O play
-      https://m.youtube.com/c/PalomaSantos - Paloma Santos
-      https://www.youtube.com/c/RevoltZi - Revolt Z
-      https://encurtee.me/jnlwr - Newton Gamer Oficial
-      https://www.youtube.com/c/Rafagame - Rafa Game
+      GRUPO PARA NOVOS VÍDEOS DA SÉRIE<br>
+      https://chat.whatsapp.com/FSWhxjBv0Bv2uVWxl2RVHt<br><br>
+
+      Formulário para opnar sobre o REI<br>
+      https://forms.gle/6ZviynBYfvMem9DG7<br><br>
+
+      Versão Minecraft: 1.17.2<br><br>
+
+      Participantes<br>
+      Mineirim - https://www.youtube.com/mineirim<br>
+      New Player EHP - https://www.youtube.com/newplayerehp<br>
+      DyowGamer - https://www.youtube.com/c/DyowGamer<br>
+      JVVM - https://youtube.com/c/JVVMYT<br>
+      MineMagic - https://encurtador.com.br/blrBR<br>
+      TioZé - https://encurtador.com.br/rtAGL<br>
+      TonhaoSantos - https://www.youtube.com/TonhaoSantos<br>
+      Coder Felipe - https://www.youtube.com/coderfelipe<br>
+      G Paulo - https://www.youtube.com/c/GPaulo1k<br>
+      D.A.O play - https://youtube.com/c/DAOplaybora1k<br>
+      Paloma Santos - https://m.youtube.com/c/PalomaSantos<br>
+      Revolt Z - https://www.youtube.com/c/RevoltZi<br>
+      Newton Gamer Oficial - https://encurtee.me/jnlwr<br>
+      Rafa Game - https://www.youtube.com/c/Rafagame<br>
+      RXBGAMES - https://www.youtube.com/c/RXBGAMES<br><br>
 
       #minecraft #pobrecraft #minecraftbedrock
-      </pre>
+      </div>
 
       <br>
 
