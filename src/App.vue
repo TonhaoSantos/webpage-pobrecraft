@@ -12,7 +12,7 @@
       <div class="col-md-12" style="text-align: center;">
         <router-link to="/">Home</router-link> |
         <router-link to="/regras">Regras</router-link> |
-        <router-link to="/youtubers">Youtubers</router-link>
+        <router-link to="/youtubers">Participantes</router-link>
       </div>
     </div>
 
