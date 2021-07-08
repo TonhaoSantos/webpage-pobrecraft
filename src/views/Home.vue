@@ -39,9 +39,9 @@
       <p>Importante padronizar também o titulo do video, ficando uma coisa mais profissional.</p>
       <p>Tentem bolar um <strong>NOME DO EPSODIO</strong> chamativo, se estiver com duvida manda no grupo.</p>
       <p>Dei uma analisada em canais grandes e cheguei neste formato, tudo em maiúsculo:</p>
-      <pre>
-      POBRECRAFT: NOME DO SEU EPSODIO - EP.01
-      </pre>
+      <div class="code-div">
+      POBRECRAFT: NOME DO SEU EPSODIO - EP.01 - MINECRAFT BEDROCK
+      </div>
 
       <br>
 
@@ -53,7 +53,7 @@
 
       <h5 class="home__subtitle">Descrição</h5>
       <p>Abaixo temos um texto de como será a descrição de cada vídeo, onde todos devem colocar os parceiros que estão participando!</p>
-      <div style="background: black; padding: 10px; color: white;">
+      <div class="code-div">
       Série muito OP dos Youtubers Pobres<br><br>
 
       O Rei está revoltado cobrando mais e mais impostos da galera!<br><br>
@@ -158,6 +158,12 @@ export default defineComponent({
     .rules__list-item {
 
     }
+  }
+
+  .code-div {
+    background: black;
+    padding: 10px;
+    color: white;
   }
 }
 </style>
