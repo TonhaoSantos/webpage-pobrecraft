@@ -13,5 +13,7 @@ export const youtubers = [
   { name: 'Revolt Z', channelLink: 'https://www.youtube.com/c/RevoltZi', logoIcon: 'https://yt3.ggpht.com/DVJm1ALO0k1g60Bq1rbuqXsycpJr2X9orMJ0vgVr_rqKfAuGLPOBgGvhNa44sTpti5eedTlz_A=s88-c-k-c0x00ffffff-no-rj' },
   { name: 'Newton Gamer Oficial', channelLink: 'https://encurtee.me/jnlwr', logoIcon: 'https://yt3.ggpht.com/tL_XOULRlq62fQP5g6cweUMO2YyUB6mI7EAK9JWXhjjAe4sjyQo22MgjzBOy_u1vu1fV3Gleqg=s88-c-k-c0x00ffffff-no-rj' },
   { name: 'Rafa Game', channelLink: 'https://www.youtube.com/c/Rafagame', logoIcon: 'https://yt3.ggpht.com/ytc/AKedOLSCytwOLdfaU4Nc7Nz5xdbLPrj1yjKwqMN8wk-R=s88-c-k-c0x00ffffff-no-rj' },
-  { name: 'RXBGAMES', channelLink: 'https://www.youtube.com/c/RXBGAMES', logoIcon: 'https://yt3.ggpht.com/ytc/AKedOLSaNveFakN2z6E1_E5HcU829w2_bLQ2UO_qlBKaog=s88-c-k-c0x00ffffff-no-rj' }
+  { name: 'RXBGAMES', channelLink: 'https://www.youtube.com/c/RXBGAMES', logoIcon: 'https://yt3.ggpht.com/ytc/AKedOLSaNveFakN2z6E1_E5HcU829w2_bLQ2UO_qlBKaog=s88-c-k-c0x00ffffff-no-rj' },
+  { name: 'Joninhas', channelLink: 'https://encurtee.me/hk5va', logoIcon: 'https://yt3.ggpht.com/uZCWbYdmTa8uPVyPWjTER0snc8aiIkDbIN2oM4I7vGYtnRrEsq1SNlMG179lUi8J3GNN1WigyA=s88-c-k-c0x00ffffff-no-rj' },
+  { name: 'Família Plays', channelLink: 'https://encurtee.me/l-tfa', logoIcon: 'https://yt3.ggpht.com/ytc/AKedOLSteALrMkMf2HNc5kqTeNjkRcvCmzbvQRjrkeEq=s88-c-k-c0x00ffffff-no-rj' }
 ]

@@ -156,7 +156,7 @@
 
       POBRECRAFT - Toda semana teremos vídeos.<br><br>
 
-      Se você é youtuber e caso queira participar da série, envie email para tiagomed@hotmail.com<br><br>
+      Se você é youtuber e caso queira participar da série, responda este formulário https://forms.gle/e5Qpf34n8RNcieY96<br><br>
 
       GRUPO PARA NOVOS VÍDEOS DA SÉRIE<br>
       https://chat.whatsapp.com/FSWhxjBv0Bv2uVWxl2RVHt<br><br>
@@ -181,7 +181,9 @@
       Revolt Z - https://www.youtube.com/c/RevoltZi<br>
       Newton Gamer Oficial - https://encurtee.me/jnlwr<br>
       Rafa Game - https://www.youtube.com/c/Rafagame<br>
-      RXBGAMES - https://www.youtube.com/c/RXBGAMES<br><br>
+      RXBGAMES - https://www.youtube.com/c/RXBGAMES<br>
+      Joninhas - https://encurtee.me/hk5va<br>
+      Família Plays - https://encurtee.me/l-tfa<br><br>
 
       #minecraft #pobrecraft #minecraftbedrock
       </div>
