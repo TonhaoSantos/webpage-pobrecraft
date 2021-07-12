@@ -233,7 +233,7 @@
       + 2 Pack de Pedra (10 x 2 = 20 pratas)<br>
       + 8 Tochas (1 x 8 = 8 pratas)<br>
       -------------------------------<br>
-      20000 Pratas<br>
+      2000 Pratas<br>
       </div><br>
 
       <p>Ainda não foi definida a data para começarmos a usar este tabela.</p>
