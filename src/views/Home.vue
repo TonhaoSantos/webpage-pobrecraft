@@ -192,25 +192,52 @@
 
       <br>
 
-      <h5 class="home__subtitle">Estamos montando ainda (ideia de alguem do grupo e ja foi aceita)</h5>
+      <h5 class="home__subtitle">Tabela de Preços</h5>
 
-      <p>Não precisa criar um dinheiro no jogo, podemos só deixar em um lugar público os valores de cada minério e por semana o rei pede um valor de imposto</p>
-      <p>E pode pedir junto com o imposto alguns blocos de construção pra obrigar o pessoal a pegar blocos</p>
-      <pre>
-        Poderia colocar uma tabela:
-        Pack de terra: 5
-        Pack de cobblestone: 7
-        Pack de pedra: 10
-        Pack de madeira: 7
-        Cada ferro: 25
-        Cada ouro: 30
-        Cada cobre: 20
-        Bloco de redstone: 25
-        Bloco de lapislazule: 30
-        Ametista: 20
-        Esmeralda:50
-        Dima:100
-      </pre>
+      <p>Como o rei vai cobrar imposto constantemente, pensamos em uma forma de poder pagar com outros itens o imposto.</p>
+      <p>O nome da nossa moeda geral é a <strong>PRATA</strong>.</p>
+      <p>Temos a seguinte tabela:</p>
+      <div class="code-div">
+      Tocha - 1 Pratas (cada unidade)<br>
+      Pack de Terra, Pedra, Areia - 10 Pratas (cada pack)<br>
+      Pack de Madeira - 20 Pratas (cada pack)<br>
+      Bloco de Carvão - 30 Pratas (cada bloco)<br>
+      Carvão - 3 Pratas (cada unidade)<br>
+      Bloco de Cobre - 30 Pratas (cada bloco)<br>
+      Cobre - 3 Pratas (cada unidade)<br>
+      Bloco de Redstone - 40 Pratas (cada bloco)<br>
+      Redstone - 3 Pratas (cada unidade)<br>
+      Bloco de Ferro - 50 Pratas (cada bloco)<br>
+      Ferro - 3 Pratas (cada unidade)<br>
+      Bloco de Ouro - 70 Pratas (cada bloco)<br>
+      Ouro - 3 Pratas (cada unidade)<br>
+      Bloco de lapis lazuli - 80 Pratas (cada bloco)<br>
+      lapis lazuli - 3 Pratas (cada unidade)<br>
+      Ametista - 60 Pratas (cada unidade)<br>
+      Esmeralda - 60 Pratas (cada unidade)<br>
+      Diamante - 100 Pratas (cada unidade)<br>
+      </div><br>
+      <p>Vamos para um exemplo de uso da tabela para pagar o imposto solicitado pelo rei.</p>
+      <div class="code-div">
+      Se o rei solicitar um imposto de 2000 pratas, podemos pagar de varias formas seguindo a tabela fornecida, basta somar os valores dos itens.<br><br>
+      Então podemos já que a unidade do Diamante vale 100 pratas, com 20 unidades de diamantes temos 2000 pratas.<br><br>
+      O mesmo pode ser feito somando itens, então ainda com o mesmo valor de imposto de 2000 pratas, podemos pagar assim:<br><br><br>
+
+      Quantidade e ITEM (Valor Unitario x Quantidade = Total)<br>
+        3 Blocos de Ouro (70 x 3 = 210 pratas)<br>
+      + 8 Bloco de lapis lazuli (80 x 3 = 640 pratas)<br>
+      + 30 Pack de Madeira (20 x 30 = 600 pratas)<br>
+      + 64 Carvões (3 x 64 = 192 pratas)<br>
+      + 1 Bloco de Carvão (1 x 30 = 30 pratas)<br>
+      + 3 Diamante (100 x 3 = 300 pratas)<br>
+      + 2 Pack de Pedra (10 x 2 = 20 pratas)<br>
+      + 8 Tochas (1 x 8 = 8 pratas)<br>
+      -------------------------------<br>
+      20000 Pratas<br>
+      </div><br>
+
+      <p>Ainda não foi definida a data para começarmos a usar este tabela.</p>
+      <p>E não vai servir apenas para o rei, se você for por exemplo vender alguma coisa no jogo deve colocar o produto para ser vendido com prata e vai poder receber conforme a tabela, não se pode receber nada diferente da tabela, ou seja, item que não esta descrito nela.</p>
     </div>
   </div>
 </template>
