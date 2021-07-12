@@ -169,21 +169,23 @@
       Participantes<br>
       Mineirim - https://www.youtube.com/mineirim<br>
       New Player EHP - https://www.youtube.com/newplayerehp<br>
-      DyowGamer - https://www.youtube.com/c/DyowGamer<br>
-      JVVM - https://youtube.com/c/JVVMYT<br>
+      DyowGamer - https://www.youtube.com/DyowGamer<br>
+      JVVM - https://youtube.com/JVVMYT<br>
       MineMagic - https://encurtador.com.br/blrBR<br>
       TioZé - https://encurtador.com.br/rtAGL<br>
       TonhaoSantos - https://www.youtube.com/TonhaoSantos<br>
       Coder Felipe - https://www.youtube.com/coderfelipe<br>
-      G Paulo - https://www.youtube.com/c/GPaulo1k<br>
-      D.A.O play - https://youtube.com/c/DAOplaybora1k<br>
-      Paloma Santos - https://m.youtube.com/c/PalomaSantos<br>
-      Revolt Z - https://www.youtube.com/c/RevoltZi<br>
+      G Paulo - https://www.youtube.com/GPaulo1k<br>
+      D.A.O play - https://youtube.com/DAOplaybora1k<br>
+      Paloma Santos - https://m.youtube.com/PalomaSantos<br>
+      Revolt Z - https://www.youtube.com/RevoltZi<br>
       Newton Gamer Oficial - https://encurtee.me/jnlwr<br>
-      Rafa Game - https://www.youtube.com/c/Rafagame<br>
-      RXBGAMES - https://www.youtube.com/c/RXBGAMES<br>
-      Joninhas - https://encurtee.me/hk5va<br>
-      Família Plays - https://encurtee.me/l-tfa<br><br>
+      Rafa Game - https://www.youtube.com/Rafagame<br>
+      RXBGAMES - https://www.youtube.com/RXBGAMES<br>
+      Joninhas - https://www.youtube.com/joninhastv<br>
+      Família Plays - https://encurtee.me/l-tfa<br>
+      Nutribiol - https://www.youtube.com/nutribiol<br>
+      zDanyel - https://www.youtube.com/zDanyel<br><br>
 
       #minecraft #pobrecraft #minecraftbedrock
       </div>
