@@ -164,35 +164,35 @@
       Formulário para opnar sobre o REI<br>
       https://forms.gle/6ZviynBYfvMem9DG7<br><br>
 
-      Versão Minecraft: 1.17.2<br><br>
+      Versão Minecraft: 1.17.10<br><br>
 
       Participantes<br>
       Mineirim - https://www.youtube.com/mineirim<br>
       New Player EHP - https://www.youtube.com/newplayerehp<br>
       DyowGamer - https://www.youtube.com/DyowGamer<br>
       JVVM - https://youtube.com/JVVMYT<br>
-      MineMagic - https://encurtador.com.br/blrBR<br>
-      TioZé - https://encurtador.com.br/rtAGL<br>
       TonhaoSantos - https://www.youtube.com/TonhaoSantos<br>
       Coder Felipe - https://www.youtube.com/coderfelipe<br>
       G Paulo - https://www.youtube.com/GPaulo1k<br>
       D.A.O play - https://youtube.com/DAOplaybora1k<br>
       Paloma Santos - https://m.youtube.com/PalomaSantos<br>
       Revolt Z - https://www.youtube.com/RevoltZi<br>
-      Newton Gamer Oficial - https://encurtee.me/jnlwr<br>
       Rafa Game - https://www.youtube.com/Rafagame<br>
       RXBGAMES - https://www.youtube.com/RXBGAMES<br>
       Joninhas - https://www.youtube.com/joninhastv<br>
       Família Plays - https://encurtee.me/l-tfa<br>
       Nutribiol - https://www.youtube.com/nutribiol<br>
-      zDanyel - https://www.youtube.com/zDanyel<br><br>
+      zDanyel - https://www.youtube.com/zDanyel<br>
+      Família Maluca - https://www.youtube.com/familiamaluca<br>
+      Brunoxy - https://www.youtube.com/Brunoxy<br>
+      Llation Games - https://www.youtube.com/c/LLATIONGAMES<br><br>
 
       #minecraft #pobrecraft #minecraftbedrock
       </div>
 
       <br>
 
-      <h5 class="home__subtitle">Tabela de Preços</h5>
+      <h5 id="table-price" class="home__subtitle">Tabela de Preços</h5>
 
       <p>Como o rei vai cobrar imposto constantemente, pensamos em uma forma de poder pagar com outros itens o imposto.</p>
       <p>O nome da nossa moeda geral é a <strong>PRATA</strong>.</p>
